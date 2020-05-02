@@ -1,5 +1,7 @@
 # amplify-vue
 
+A sample project ToDo App for AWS Amplify to test GraphQL, Amplify mBaaS.
+
 ## Project setup
 ```
 npm install
